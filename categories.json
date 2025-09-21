@@ -1,0 +1,18 @@
+[
+  {
+    "id": "featured",
+    "name": "Featured"
+  },
+  {
+    "id": "ads",
+    "name": "FB Ads"
+  },
+  {
+    "id": "social",
+    "name": "Social Media Kits"
+  },
+  {
+    "id": "guides",
+    "name": "Guides"
+  }
+]
