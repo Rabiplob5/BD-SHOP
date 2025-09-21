@@ -1,23 +1,16 @@
 [
   {
-    "name": "Ad Template Pack",
-    "desc": "Facebook ad image + text templates (legal)",
-    "price": "৳500",
-    "payment": "#",
-    "category": "ads"
-  },
-  {
-    "name": "Instagram Starter Kit",
-    "desc": "30 post templates and captions",
-    "price": "৳300",
-    "payment": "#",
-    "category": "social"
-  },
-  {
-    "name": "E-book: FB Ads Guide",
-    "desc": "Step-by-step ad setup guide",
+    "name": "Demo E-book",
+    "desc": "Step by step guide (legal)",
     "price": "৳250",
     "payment": "#",
     "category": "guides"
+  },
+  {
+    "name": "Template Pack",
+    "desc": "Website & social media templates",
+    "price": "৳500",
+    "payment": "#",
+    "category": "templates"
   }
 ]
